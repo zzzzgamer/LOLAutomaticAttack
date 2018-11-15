@@ -1,0 +1,9 @@
+﻿  ScreenDetection.cpp
+ScreenDetection.cpp(9): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码
+  5 of 617 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LoL_Automatic_attack.vcxproj -> D:\BZW\lol_\LoL_Automatic_attack\x64\Release\LoL_Automatic_attack.exe
+  LoL_Automatic_attack.vcxproj -> D:\BZW\lol_\LoL_Automatic_attack\x64\Release\LoL_Automatic_attack.pdb (Full PDB)
